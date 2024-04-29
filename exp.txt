@@ -1,0 +1,18 @@
+Aim: To create a Flutter application to display image
+
+Theory: Flutter, a versatile framework for building cross-platform 
+applications, offers a widget-based approach to UI development. 
+To display an image in a Flutter application, you'll import the 
+image asset into the project, declare it in the `pubspec.yaml` 
+file, and utilize the `Image.asset()` widget to render the image 
+within the app's UI structure. By composing the UI with layout 
+widgets like `Center`, `Column`, or `Row`, you can efficiently 
+arrange the image and any accompanying components on the screen.
+
+Code: lib/main.dart mein dekh
+
+Conclusion: Hence, we have successfully created a Flutter application to display an image.
+
+===========
+flutter pub get
+flutter run
